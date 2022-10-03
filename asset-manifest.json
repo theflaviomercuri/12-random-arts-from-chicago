@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/12-random-arts-from-chicago/static/css/main.d6e89b9f.css",
+    "main.css": "/12-random-arts-from-chicago/static/css/main.c13cf2e1.css",
     "main.js": "/12-random-arts-from-chicago/static/js/main.f33c13ce.js",
     "index.html": "/12-random-arts-from-chicago/index.html",
-    "main.d6e89b9f.css.map": "/12-random-arts-from-chicago/static/css/main.d6e89b9f.css.map",
+    "main.c13cf2e1.css.map": "/12-random-arts-from-chicago/static/css/main.c13cf2e1.css.map",
     "main.f33c13ce.js.map": "/12-random-arts-from-chicago/static/js/main.f33c13ce.js.map"
   },
   "entrypoints": [
-    "static/css/main.d6e89b9f.css",
+    "static/css/main.c13cf2e1.css",
     "static/js/main.f33c13ce.js"
   ]
 }
