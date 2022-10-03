@@ -1,0 +1,8 @@
+.pancia{
+    display: flex;
+    flex-direction: row;
+    background-color: aqua;
+}
+img{
+    max-height: 80vh;
+}
