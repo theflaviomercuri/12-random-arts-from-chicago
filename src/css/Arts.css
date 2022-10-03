@@ -1,7 +1,9 @@
 .pancia{
     display: flex;
     flex-direction: row;
-    background-color: aqua;
+    flex-wrap: wrap;
+    position: -webkit-sticky;
+    position: sticky;
 }
 img{
     max-height: 80vh;
