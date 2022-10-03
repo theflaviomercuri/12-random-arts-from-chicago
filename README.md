@@ -1,2 +1,2 @@
-# a-random-art-from-chicago
-Watch a random art from the Art Institute of Chicago's collection.
+# 12-random-arts-from-chicago
+Watch 12 random arts from the Art Institute of Chicago's collection.
